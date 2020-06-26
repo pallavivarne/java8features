@@ -1,2 +1,2 @@
 # java8features
-LearnJava8
+To learn new fetaures of Java 8
